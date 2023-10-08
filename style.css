@@ -1,0 +1,97 @@
+body{
+}
+#headerimg{
+    height: 82%;
+    width: 100%;
+}
+#imgdiv{
+    background-color: black;
+    height: 650px;
+}
+#navbarrow{
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    background-color: rgba(0,0, 0,.3);
+    font-size: larger;
+    font-weight: 400;
+}
+#navtext{
+}
+#intro{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+#titlecard{
+    background-color: rgba(0,0, 0,.5);
+    border-radius: 5px;
+}
+#ordernow{
+    font-family: 'Pacifico', cursive;
+    width: 40%;
+    font-weight: bold;
+    background-color: #FFC300;
+    font-weight: bolder;
+}
+#titleh1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    color: #FFC300;
+}
+#bestsellerh1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+#cardimg{
+    border: 5px solid #FFC300;
+    border-radius: 250px;
+}
+#cardspizza{
+    justify-content: center;
+}
+#cardbody{
+    
+}
+#cardtitle{
+    font-family: 'Dancing Script', cursive;
+}
+#lastimg{
+    border-radius: 300px;
+}
+#Oriental{
+    font-family: 'Dancing Script', cursive;
+}
+#Orientalid{
+}
+#Oriental8{
+    color: white;
+    background-color: #2B3035;
+    clip-path: circle(118.3% at 100% 100%);
+}
+#secondlastdiv{
+}
+#Statisticsh1{
+    font-family: 'Dancing Script', cursive;
+}
+#buttonorder{
+    position: absolute;
+    left: 20%;
+    width: 150px;
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+    background-color: #FFC300;
+    font-weight: bolder;
+    font-size: large;
+}
+#statsdiv{
+    color: white;
+    background-color: #2B3035;
+    font-family: 'Dancing Script', cursive;
+    border-radius: 200px;
+    border: 5px solid #FFC300;
+    height: 200px;
+    width: 200px;
+}
